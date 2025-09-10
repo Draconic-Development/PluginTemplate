@@ -1,0 +1,6 @@
+name: PluginTemplate
+version: '1.0'
+main: dev.draconicdevelopment.pluginTemplate.PluginTemplate
+api-version: '1.21'
+authors: [ Mike31232 ]
+description: Development plugin
