@@ -29,8 +29,8 @@ These are all the files that should be modified when creating a new plugin from 
 > Example:
 > softdepend:
 > - PlaceholderAPI
-> - 
->   Example:
+
+> Example:
 > depend:
 > - Vault
 
