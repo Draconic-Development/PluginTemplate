@@ -24,7 +24,8 @@ These are all the files that should be modified when creating a new plugin from 
 
 - src/main/resources/config.yml - Change the top of this to match the plugin name.
 
-> src/main/resources/plugin.yml - Add any api's that your plugin soft depends or hard depends on here under the plugin description.
+- src/main/resources/plugin.yml - Add any api's that your plugin soft depends or hard depends on here under the plugin description.
+- 
 > Example:
 > softdepend:
 > - PlaceholderAPI
