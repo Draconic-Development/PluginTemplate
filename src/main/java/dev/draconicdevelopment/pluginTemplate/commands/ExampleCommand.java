@@ -11,7 +11,6 @@ import org.bukkit.entity.Player;
 public class ExampleCommand implements CommandExecutor {
 
     private final PluginTemplate plugin;
-    // TEsting github
 
     //TODO: Change this executor to match the command used
     public ExampleCommand(PluginTemplate plugin) {
