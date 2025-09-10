@@ -4,3 +4,9 @@ main: dev.draconicdevelopment.pluginTemplate.PluginTemplate
 api-version: '1.21'
 authors: [ Mike31232 ]
 description: Development plugin
+commands:
+  ExampleCommand:
+    Permission: PluginTemplate.Command.Example
+    description: Main plugin command for the template
+    aliases:
+      - example

@@ -56,7 +56,6 @@ processResources {
 
 
 // Moves the jar file to the desktop // directly into the plugin directory of a test server
-//TODO: Change this name and destination
 jar {
     archiveFileName = "PluginTemplate-${findProperty("version")}.jar"
     destinationDirectory = file("C:\\Users\\mspic\\Desktop")
