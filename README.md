@@ -4,7 +4,7 @@ This is a template repository for creating new Draconic Development plugins with
 Files to Modify
 These are all the files that should be modified when creating a new plugin from this template.
 
-build.gradle - Change archiveFilename to the name of your plugin, and change the destinationDirectory to where you want the plugin jar to be output.
+- build.gradle - Change archiveFilename to the name of your plugin, and change the destinationDirectory to where you want the plugin jar to be output.
 
 build.properties - Change spigotVersion and java to the versions of the dependencies you want to use.
 
