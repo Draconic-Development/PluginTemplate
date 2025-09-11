@@ -37,8 +37,10 @@ These are all the files that should be modified when creating a new plugin from 
 Support
 If there's anything I have left out, or anything else, please join our Discord server. We offer any and all support in our server.
 
-Blue Testing
+
+New Layout
 ---
+
 
 <p align="center">
   <img src="assets/banner.png" width="600" alt="Draconic Development Banner"/>
