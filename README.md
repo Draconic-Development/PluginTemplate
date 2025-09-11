@@ -52,10 +52,10 @@ New Layout
 </p>
 
 <p align="center">
-  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-17+-red.svg" alt="Java 17+">#</a>
-  <a href="https://www.spigotmc.org/"><img src="https://img.shields.io/badge/Spigot-1.20+-orange.svg" alt="Spigot 1.20+">#</a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">#</a>
-  <a href="https://discord.gg/YOURDISCORD"><img src="https://img.shields.io/discord/000000000000?logo=discord&logoColor=white&label=Discord&color=5865F2" alt="Join our Discord">#</a>
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-17+-red.svg" alt="Java 17+"></a>
+  <a href="https://www.spigotmc.org/"><img src="https://img.shields.io/badge/Spigot-1.20+-orange.svg" alt="Spigot 1.20+"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
+  <a href="https://discord.gg/YOURDISCORD"><img src="https://img.shields.io/discord/000000000000?logo=discord&logoColor=white&label=Discord&color=5865F2" alt="Join our Discord"></a>
 </p>
 
 ---
