@@ -28,7 +28,7 @@ public final class PluginTemplate extends JavaPlugin {
         registerCommands();
 
 
-        // API Checker
+        // API Check
     }
 
     @Override
