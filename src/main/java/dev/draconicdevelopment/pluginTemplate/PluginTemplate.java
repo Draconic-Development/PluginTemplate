@@ -29,7 +29,6 @@ public final class PluginTemplate extends JavaPlugin {
 
 
         // API Checker
-        // Webhook checker
     }
 
     @Override
