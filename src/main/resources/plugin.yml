@@ -6,7 +6,7 @@ authors: [ Mike31232 ]
 description: Development plugin
 commands:
   ExampleCommand:
-    Permission: PluginTemplate.Command.Example
+    permission: PluginTemplate.Command.Example
     description: Main plugin command for the template
     aliases:
       - example
