@@ -19,7 +19,7 @@
 #Plugin prefix is sent before ALL messages in the plugin.
 Messages:
   #Plugin prefix for all messages.
-  Prefix: '#ffffff[<g:#fc1c03:#fc7f03>Plugin Template#ffffff] #f6ff00> &r'
+  Prefix: '#ffffff[<g:#990000:#ff4848>Plugin Template#ffffff] #f6ff00> &r'
 
   #➳➳➳➳➳ Console Messages ➳➳➳➳➳
   #Players only command
