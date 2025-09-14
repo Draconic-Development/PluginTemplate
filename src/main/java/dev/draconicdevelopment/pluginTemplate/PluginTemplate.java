@@ -39,7 +39,7 @@ public final class PluginTemplate extends JavaPlugin {
 
     //TODO: Change this to reflect the plugin prefix
     public String messageFormat(String key) {
-        return HexUtils.colorify("#ffffff[<g:#fc1c03:#fc7f03>Plugin Template#ffffff] #f6ff00> &r" + key);
+        return HexUtils.colorify("#ffffff[<g:#990000:#ff4848>Plugin Template#ffffff] #f6ff00> &r" + key);
     }
 
     public static PluginTemplate getInstance() {
